@@ -7,7 +7,7 @@
   "author": "Prisma",
   "license": "Apache 2",
   "dependencies": {
-    "graphql": "0.13.2",
+    "graphql": "14.0.2",
     "prisma-binding": "2.0.0"
   },
   "devDependencies": {
